@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Software Engineering at Alx**
 
-- 👨‍💻 All of my projects are available at [https://dynamo-plus.github.io/Dynamo/](https://dynamo-plus.github.io/Dynamo/)
+- 👨‍💻 My projects are available at [https://dynamo-plus.github.io/Dynamo/](https://dynamo-plus.github.io/Dynamo/)
 
 - 💬 Ask me about **PHP, Javascript and C**
 
